@@ -1,6 +1,6 @@
 # Almost-Free-ML-AI-Guide
 
-This Repo and the Course-Guide in a PDF-file - are intended to guide you towards becoming a Data Science // Machine Learning // AI Engineering Professional.
+This Repo and the Course-Guide in PDF-format - are intended to guide you towards becoming a Data Science // Machine Learning // AI Engineering Professional.
 
 There are plenty of platforms like Coursera, edX, Udemy, etc. who as of today even allow you to pursue a Master's Gegree in all these fields.
 
