@@ -2,7 +2,7 @@
 
 This repository and the accompanying course guide (in PDF format) are designed to help you on your journey toward becoming a Data Science, Machine Learning, or AI Engineering professional.
 
-There are many platforms, such as Coursera, edX, and Udemy, that now even offer opportunities to pursue a Master's degree in these fields.
+There are many platforms, such as Coursera, edX, Udacity, Udemy, etc..... that now even offer opportunities to pursue a Master's degree in these fields.
 
 While these programs are valuable and well-credited by the institutions offering them, they can still be prohibitively expensive for many people around the world.
 
