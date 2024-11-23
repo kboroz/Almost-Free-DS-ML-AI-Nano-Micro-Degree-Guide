@@ -1,4 +1,5 @@
-# Almost-Free-ML-AI-Guide
+# Almost-Free-Data-Science-Machine-Learning-Artificial-Intelligence-Nano-Micro-Degree-Guide
+
 
 This repository and the accompanying course guide (in PDF format) are designed to help you on your journey toward becoming a Data Science, Machine Learning, or AI Engineering professional.
 
