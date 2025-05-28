@@ -9,7 +9,7 @@ While these programs are valuable and well-credited by the institutions offering
 
 With annual tuition fees often reaching $10,000, $20,000, or even $50,000, this guide aims to provide alternative pathways to acquiring comparable knowledge at a significantly lower cost.
 
-That said, I must admit a personal bias: I prefer the Coursera platform, which is frequently referenced throughout this guide. But there are plans to include more Udacity courses or alternative platforms, MOOcs etc. to reduce this bias. Comments/Suggestions are welcome ;-)
+That said, I must admit a personal bias: I prefer the Coursera platform, which is frequently referenced throughout this guide. But there are plans to include more Udacity courses or alternative platforms, MOOCs etc. to reduce this bias. Comments/Suggestions are welcome ;-)
 
 The idea is straightforward: secure an annual subscription on Coursera (often available at a discounted rate) and aim to complete as many relevant courses as possible.
 
