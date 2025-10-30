@@ -21,4 +21,20 @@ Since personal preferences vary—what works well for one person might not for a
 
 All the courses listed are carefully selected to prepare you for tackling "professional-level" courses later on.
 
+https://huggingface.co/learn
+
+https://www.slds.stat.uni-muenchen.de/teaching/
+
+https://awesome-mlss.com/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI,GENAI,HW,AI4GAMES,COGSCI,THEORY,BIO,LOG,NEURO,EML,RL,HEALTH,ML4SCIENCE,RAI,QUANTUM,RECSYS
+
+https://udlbook.github.io/udlbook/
+
+https://d2l.ai/
+
+https://fleuret.org/dlc/
+
+https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
+
+https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
+
 
