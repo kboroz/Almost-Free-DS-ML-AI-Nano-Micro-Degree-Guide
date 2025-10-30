@@ -37,4 +37,10 @@ https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
 
 https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
 
+https://www.wqu.edu/adsl
+
+https://www.wqu.edu/deep-learning-lab
+
+https://www.wqu.edu/ai-lab-computer-vision
+
 
